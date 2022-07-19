@@ -1,2 +1,6 @@
 # Projeto_Curricular_Java
-Escrita e leitura de ficheiros
+
+OOP;
+Manipulação de dados em memória e guardando em arraylist;
+Escrita e leitura de ficheiros;
+Exception handling;
